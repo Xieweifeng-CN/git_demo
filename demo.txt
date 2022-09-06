@@ -12,3 +12,5 @@ helloword!  hello git!
 wang:第一次提交
 
 jack: 第一次提交
+
+jack: 第二次提交
